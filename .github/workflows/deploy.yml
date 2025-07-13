@@ -50,7 +50,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist # 指定构建后的输出目录
+          path: docs/.vitepress/dist # 指定构建后的输出目录
 
   # 部署工作
   deploy:
