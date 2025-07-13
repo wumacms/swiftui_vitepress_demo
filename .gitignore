@@ -7,11 +7,11 @@ dist/
 # package-lock.json
 
 # VitePress 构建产物
-.vitepress/dist/
-.vitepress/cache/
-.vitepress/temp/
-.vitepress/.vite/
-.vitepress/.vitepress/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/temp/
+docs/.vitepress/.vite/
+docs/.vitepress/.vitepress/
 
 # macOS 系统文件
 .DS_Store
